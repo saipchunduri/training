@@ -1,0 +1,20 @@
+https://drive.google.com/file/d/14mkSvEmhHNvndiNHVWX4zh10Ast4JWCQ/view?usp=sharing
+
+Steps for GIT Hands-On
+==========================
+1. Create a remote repo 
+2. Create a holding folder for all repos
+3. git init 
+4. git clone - repo
+5. cd repo folder
+
+6. Add file(s)
+7. git add .
+8. git commit -m "comment" - Will add file to local repo
+9. git push origin master 
+10. The file getting merged to Remote repo from Local Repo 
+
+
+
+
+https://global.gotomeeting.com/join/621482877  
